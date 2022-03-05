@@ -8,7 +8,7 @@ This application is supposed to allow you to edit text in a browser, then downlo
 
 ## Demo
 
-
+![Demo](./src/assets/images/demoGif.gif);
 
 
 ## Technology
