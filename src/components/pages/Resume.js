@@ -1,4 +1,7 @@
 import React from 'react';
+import Resume1 from "../../assets/images/Resume.pdf";
+import ResumeImg1 from "../../assets/images/resume1.png";
+import ResumeImg2 from "../../assets/images/resume2.png";
 
 export default function Resume() {
   return (
@@ -6,7 +9,10 @@ export default function Resume() {
       <h1>Resume Page</h1>
       <div className="centerText">
       <h1>Resume</h1>
-      <a href="https://docs.google.com/document/d/1C6AvZo8pYEPcqudQ2Sfnd8COV0NwEONQMJ8KtQ1yjjM/edit?usp=sharing">Resume Link</a>
+      <a href={Resume1}>
+        <img src={ResumeImg1} alt="resumeimg1" className="resume-img"/>
+        <img src={ResumeImg2} alt="resumeimg2" className="resume-img"/>
+      </a>
       <h3>
         Technologies Known
         <h4>
