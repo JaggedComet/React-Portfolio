@@ -4,9 +4,9 @@ import profile from "../../assets/images/profile.jpg"
 export default function About() {
   return (
     <div>
-      <h1>About Me Page</h1>
+      <h1 className="">About Me Page</h1>
         <div>
-          <img src={profile} alt="profile pic" className="profile-img"/>
+          <img src={profile} alt="profile pic" className="profile-img centerImg"/>
         </div>
           <p className="about-font">
           My name is Marco Flores and I'm looking for a start in a new career. I've been taking college classes 

@@ -1,5 +1,6 @@
 header {
     border-bottom: solid;
+    text-align: center;
 }
 .header nav {
     float: right;
@@ -19,16 +20,46 @@ header {
     color: white;
     border: #333333;
     border-style: solid;
-    text-shadow: 1px 1px red;
+    text-shadow: 1px 1px black;
+}
+
+.navItem {
+    display: inline-block;
+    margin-left: 25px;
+    color: white;
+    border: #333333;
+    border-style: solid;
+    text-shadow: 1px 1px black;
+    text-align: center;
 }
 
 body {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/portfolioBackground.jpg");
+}
+
+.centerText {
+    text-align: center;
+}
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.resumeFont {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-shadow: 1px 1px black;
 }
 
 .about-font {
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-shadow: 1px 1px black;
+    text-align: center;
 }
 
 .flex-container {
@@ -49,7 +80,7 @@ img {
 }
 
 footer {
-    position: fixed;
+    position: relative;
     bottom: 0;
     left: 0;
     right: 0;
@@ -59,7 +90,7 @@ footer {
 }
 
 footer ul span { 
-    text-shadow: 1px 1px red;
+    text-shadow: 1px 1px black;
 }
 
 .contact-me-section {
