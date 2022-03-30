@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.451878d6.css",
-    "main.js": "/React-Portfolio/static/js/main.7d5770c0.js",
+    "main.js": "/React-Portfolio/static/js/main.a995c603.js",
+    "static/media/resume1.png": "/React-Portfolio/static/media/resume1.d593f36bcf96a12a0257.png",
     "static/media/portfolioBackground.jpg": "/React-Portfolio/static/media/portfolioBackground.74cee1fd0b04b6589c8a.jpg",
+    "static/media/resume2.png": "/React-Portfolio/static/media/resume2.91b03d190c1734398b4d.png",
     "static/media/demoREADME.png": "/React-Portfolio/static/media/demoREADME.cfcb0c867bb6ba3ddcdf.png",
     "static/media/demoEmployee.png": "/React-Portfolio/static/media/demoEmployee.2b8d0e17d6e2d445f744.png",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.a248b770a82aea09f104.pdf",
     "static/media/demoCovid.png": "/React-Portfolio/static/media/demoCovid.70a27316d30b5fbf023b.png",
     "static/media/profile.jpg": "/React-Portfolio/static/media/profile.a8cbb45f471a4968d386.jpg",
     "static/media/demoTeam.png": "/React-Portfolio/static/media/demoTeam.87c0f47c04490417e4b7.png",
@@ -12,10 +15,10 @@
     "static/media/demoHelp.png": "/React-Portfolio/static/media/demoHelp.4eec29d747c40f81719b.png",
     "index.html": "/React-Portfolio/index.html",
     "main.451878d6.css.map": "/React-Portfolio/static/css/main.451878d6.css.map",
-    "main.7d5770c0.js.map": "/React-Portfolio/static/js/main.7d5770c0.js.map"
+    "main.a995c603.js.map": "/React-Portfolio/static/js/main.a995c603.js.map"
   },
   "entrypoints": [
     "static/css/main.451878d6.css",
-    "static/js/main.7d5770c0.js"
+    "static/js/main.a995c603.js"
   ]
 }
