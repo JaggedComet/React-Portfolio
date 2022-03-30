@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.f0b6adb5.css",
-    "main.js": "/React-Portfolio/static/js/main.b951e4c3.js",
-    "static/media/background.jpg": "/React-Portfolio/static/media/background.2c84a4271bfcf6afa003.jpg",
+    "main.css": "/React-Portfolio/static/css/main.451878d6.css",
+    "main.js": "/React-Portfolio/static/js/main.7d5770c0.js",
+    "static/media/portfolioBackground.jpg": "/React-Portfolio/static/media/portfolioBackground.74cee1fd0b04b6589c8a.jpg",
     "static/media/demoREADME.png": "/React-Portfolio/static/media/demoREADME.cfcb0c867bb6ba3ddcdf.png",
     "static/media/demoEmployee.png": "/React-Portfolio/static/media/demoEmployee.2b8d0e17d6e2d445f744.png",
     "static/media/demoCovid.png": "/React-Portfolio/static/media/demoCovid.70a27316d30b5fbf023b.png",
@@ -11,11 +11,11 @@
     "static/media/demoWorkday.png": "/React-Portfolio/static/media/demoWorkday.7c7be8a30183885740c4.png",
     "static/media/demoHelp.png": "/React-Portfolio/static/media/demoHelp.4eec29d747c40f81719b.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.f0b6adb5.css.map": "/React-Portfolio/static/css/main.f0b6adb5.css.map",
-    "main.b951e4c3.js.map": "/React-Portfolio/static/js/main.b951e4c3.js.map"
+    "main.451878d6.css.map": "/React-Portfolio/static/css/main.451878d6.css.map",
+    "main.7d5770c0.js.map": "/React-Portfolio/static/js/main.7d5770c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0b6adb5.css",
-    "static/js/main.b951e4c3.js"
+    "static/css/main.451878d6.css",
+    "static/js/main.7d5770c0.js"
   ]
 }
